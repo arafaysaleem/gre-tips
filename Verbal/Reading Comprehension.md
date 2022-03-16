@@ -13,6 +13,7 @@ Reading Passages
    - Historical Fact (Usually a statement that nobody would debate, everyone would agree)
    - Common belief (Usually a point that the author will contradict later)
    - Author's Main Idea (Usually a contradiction or opinion, very often starts with negative conjunctions like but, however etc.)
+   - Concession (Sort of an attack used by the author to support his argument but partially agrees to the other side as well, so as to limit/qualify the attack)
    - Support Clause (Usually explains the author's main idea)
    - Emphasis (Anything that restates the author's idea)
 
