@@ -61,7 +61,7 @@ Write in support to show you mostly agree only
 ## Mostly Agree/Disagree
    - Explain how the issue is complex and has no clear answers.
    - Restate your thesis.
-   - Use a sentence like "Although, I do concede that side A is beneficial in that ..., I mostly favor side A for the above said reasons".
+   - Use a sentence like "Although, I do concede that side A is beneficial in that ..., I mostly favor side B for the above said reasons".
 
 ## Strongle Agree/Disagree
 
